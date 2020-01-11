@@ -11,6 +11,6 @@ class App < Sinatra::Base
   end
 
   get '/favorite-song' do
-    #enter code
+    "My favorite song is House of the Raising Sun."
   end
 end
